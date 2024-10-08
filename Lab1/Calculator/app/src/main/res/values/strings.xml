@@ -20,4 +20,6 @@
     <string name="zero">0</string>
     <string name="decimal">.</string>
     <string name="equals">=</string>
+    <string name="name">Eli Holter</string>
+    <string name="CWUID">42362951</string>
 </resources>
